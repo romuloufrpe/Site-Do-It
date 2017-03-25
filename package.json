@@ -1,0 +1,22 @@
+{
+  "name": "doit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romuloufrpe/Site-Do-It.git"
+  },
+  "author": "Rômulo Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romuloufrpe/Site-Do-It/issues"
+  },
+  "homepage": "https://github.com/romuloufrpe/Site-Do-It#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
